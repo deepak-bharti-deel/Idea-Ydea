@@ -1,0 +1,62 @@
+socialconnection
+
+This app allows people to stalk their friends and others in the following way -
+
+1. You can see what all social networks are being used by people if they share
+2. You can see the network specific info of the user like 
+		
+		In case of facebook -
+			No of friends
+			relationship status
+			and link to facebook profile
+
+		In case of Quora 
+			Followers
+			Following
+			No of Questions asked 
+			Answer views   
+			Top writer info
+			Published writer etc
+
+		Twitter 
+			Followers
+			Following
+			physical features
+			No of tweets etc
+
+		Linkedin
+			Connections
+			Skills
+			professional career history like 
+			where he worked in past and where is workig now
+
+
+		Academic History
+			Like -
+			Highschool info
+			Intermediate school info
+			College info - Batchelors course if done
+			then about Masters If done
+
+And this way user can add as many social networks as want like 
+	
+		Stackoverflow
+		Medium
+		Youtube
+		Google+
+		hohos
+
+		and lot more
+
+# Benefits
+	
+1. People can easily know lot about others just in ope place or one page :)
+2. Easy to handle takes no time just need to give your social profile links :)
+
+
+# Seems interesting
+
+
+
+
+

@@ -1,0 +1,25 @@
+Signup Time requirements - 
+
+college guys    ,  school guys
+1.name
+2.email
+2.college/school/coaching
+3.year/class/batch
+3.branch/skipfor_school
+3.password
+4.confirm password
+5.capcha
+6.register
+
+
+
+Profile attributes - 
+
+1. opened(expaneded) status of current school/college etc and minimized past academic record which need to be 	   expand to see
+
+2. User can tell what he masters at and others can rate that guy in the range of 1-100
+   (At any academic level past or present)
+
+3. Users can put some career related questions on their profile for visitors to answer if visitors want
+
+4.  

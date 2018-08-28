@@ -1,0 +1,11 @@
+Optimized News : A way to present news in a way that take lesser time to understand it.
+
+
+Reason : 
+	Big number of people seems to be in very rush, they don'e have even time for reading news etc.
+
+Solution :
+	We can analyze the news and prepare an algo which kinda converts it to a short video(muted)/gifs/images because (a 20sec)videos or (a single)image tells more than (100)words while reading 100 words might take 10x time than watching a 20sec video or watching a single image. 
+
+Requirements : 
+	This requires a high level machine learning and algorithmic knowledge

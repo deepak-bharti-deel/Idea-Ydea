@@ -1,0 +1,11 @@
+
+
+An app which can find people who are similar in looks and physic to a given person.
+
+Like if you like a girl but she is already taken then this app will help you find 
+most appropriate similar choices.
+
+
+or this can be applied to lot of other things, like houses, etc
+we just need the data and images of objects where you are trying to find a match
+

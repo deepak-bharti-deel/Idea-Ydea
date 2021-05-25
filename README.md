@@ -1,2 +1,2 @@
 # Idea-Videa
-Collection Of some ideas I came up
+Collection Of some ideas I came up with
